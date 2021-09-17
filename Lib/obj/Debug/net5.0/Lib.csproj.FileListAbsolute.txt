@@ -1,0 +1,12 @@
+D:\Labs\CPP\1\ConsoleApp\Lib\bin\Debug\net5.0\Lib.deps.json
+D:\Labs\CPP\1\ConsoleApp\Lib\bin\Debug\net5.0\Lib.dll
+D:\Labs\CPP\1\ConsoleApp\Lib\bin\Debug\net5.0\ref\Lib.dll
+D:\Labs\CPP\1\ConsoleApp\Lib\bin\Debug\net5.0\Lib.pdb
+D:\Labs\CPP\1\ConsoleApp\Lib\obj\Debug\net5.0\Lib.csproj.AssemblyReference.cache
+D:\Labs\CPP\1\ConsoleApp\Lib\obj\Debug\net5.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\CPP\1\ConsoleApp\Lib\obj\Debug\net5.0\Lib.AssemblyInfoInputs.cache
+D:\Labs\CPP\1\ConsoleApp\Lib\obj\Debug\net5.0\Lib.AssemblyInfo.cs
+D:\Labs\CPP\1\ConsoleApp\Lib\obj\Debug\net5.0\Lib.csproj.CoreCompileInputs.cache
+D:\Labs\CPP\1\ConsoleApp\Lib\obj\Debug\net5.0\Lib.dll
+D:\Labs\CPP\1\ConsoleApp\Lib\obj\Debug\net5.0\ref\Lib.dll
+D:\Labs\CPP\1\ConsoleApp\Lib\obj\Debug\net5.0\Lib.pdb
